@@ -1,0 +1,147 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Trigger serveur
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Le projet a pour but de ...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Trigger serveur
+    internal_properties : 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
+    configuration_id : 12542966297530125489
+    type : 1
+    generation_name : WD Trigger serveur.exe
+    version :
+     version : VI200066F
+     autoincrement_version : false
+    icon_filename : .\fichier.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAClfcJwu9RliU05lLuubAGCNcsMqG0if1gPA3UrFsNSfs6jpkHi/9dy95DPhaJ8L99JBd82NnRS5Dimog==
+ elements :
+  identifier : 0x4c4d9b0c000f739f
+  elements :
+   -
+     name : TEST_Collaborateurs
+     identifier : 0x4c7cb52a001c0f20
+     internal_properties : CAAAAAgAAACIhvCsG0Do8//1X4jTle2sME3vx/0Wno2HlFZwQv2XSf8T1Ipc7CQDnIN9ezu1TUONlQ==
+     physical_name : .\TEST_Collaborateurs.wxt
+     type : 17
+   -
+     name : TEST_CONNEXION
+     identifier : 0x4c7cb536001e4090
+     internal_properties : CAAAAAgAAADCuDpuXQoiPYWPZbI18B9aehmh+VnafpmLu8s7a6RwmFDiBdkCBjoZ5l1HsXFvC/3HTw==
+     physical_name : .\TEST_CONNEXION.wxt
+     type : 17
+   -
+     name : FEN_Collaborateurs
+     identifier : 0x4836e63f0000131c
+     internal_properties : CAAAAAgAAABaMAIGpeLK1Z3XvWp9Kbt2SnsRGbSe61hS+snd3znTBTfPHDK6ToLhvmVfWdkX49U/xw==
+     physical_name : .\FEN_Collaborateurs.wdw
+     type : 2
+   -
+     name : FEN_CONNEXION
+     identifier : 0x4c4d9f90000c175e
+     internal_properties : CAAAAAgAAABq4FK2dTJ6pa1nzZrN2itmQnUhAcI3QT+uMxKV1jbeEibEC8Mq3hJxDjWvCYlHM6Vv9w==
+     physical_name : .\FEN_CONNEXION.wdw
+     type : 2
+  other_elements : []
+  analysis : .\WD Trigger serveur.ana\WD Trigger serveur.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAABQ63RwWuf4x9rtmnvg7nHVm/0JBAVSvF5Tt0ecdO8df2PwBvv8DDeBJOBbXYUXfDxCz3CW/rPVT+zMgR1aE7M629xgw1fDi2KES5gpSQ==
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACxg1TfE4Q1BtGaV5js53YfEUu+3EaXFwsZ0KsmeGVJWavGuJhVctUxEkm/hiwSe9xBvCikxjpxpeVsL6Bd84+z2nITRmZ782XP4Qn3G21RYcCqk6rPHmV0//dcF3xs3A+uqg7kg5H09PrcDVY=
+     code : |1+
+      //Description de la connexion
+      gcnxHFSQLCS est une connexion
+      
+      // Ouverture de la fenêtre de connexion au serveur
+      si ouvre(fen_CONNEXION) = Faux ALORS
+      	FinProgramme()
+      FIN
+      
+      //Fichier externe
+      gsdCOLLABORATEUR est une source de données
+      
+      //Ouverture de la connexion
+      HOuvreConnexion(gcnxHFSQLCS)
+      
+      //On vérifie que la version du serveur HFSQL est au minimum la version 120055g
+      si HInfoServeur(gcnxHFSQLCS,hInfoVI)[[4 A]] < "120055g" alors
+      	Erreur(<§@00000000000000000000§>)
+      	FinProgramme()
+      FIN
+      
+      //Ouverture du fichier COLLABORATEUR
+      si HDéclareExterne("./COLLABORATEUR.FIC",gsdCOLLABORATEUR,gcnxHFSQLCS) = Faux ALORS
+      	// Copie le fichier sur le serveur
+      	hCopiefichier(gcnxHFSQLCS,".\COLLABORATEUR.FIC","",frepexe() + "\" + "COLLABORATEUR.FIC",hCopieIndex)
+      		
+      	HDéclareExterne("./COLLABORATEUR.FIC",gsdCOLLABORATEUR,gcnxHFSQLCS)
+      	
+      	// Mise à jour des triggers et procédures stockées
+      	HMiseAJourCollection(gcnxHFSQLCS,"psWD_Trigger_serveur")
+      	
+      	
+      	HCréeTriggerServeur(Trigger_Archivage)
+      	HCréeTriggerServeur(Trigger_DateHeureModif)
+      	
+      	
+      FIN
+     type : 196608
+   -
+     code : |1-
+      //Ce traitement a été généré automatiquement
+      //Il est nécessaire à l'exécution des tests automatiques du projet
+      //car des fenêtres sont ouvertes dans le code d'initialisation du projet
+      //
+      //Ce traitement n'est exécuté que pendant les tests automatiques
+      //Il n'est pas utilisé lors de la génération de votre projet, ou lors d'un mode test classique
+      //
+      //Scénario à exécuter lors de l'ouverture de la fenêtre FEN_CONNEXION
+      PiloteFenetre(FEN_CONNEXION, Scénario1)
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Trigger serveur
+     identifier : 0x4c4d9b0c0013744b
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : Le serveur utilisé est trop ancien. Il est important d'utiliser un serveur HFSQL en version 120055g.
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
